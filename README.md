@@ -1,1 +1,2 @@
-# pppp-3434343
+# API-Catalog
+SEAPIM platform API which manages the content of the API catalog
